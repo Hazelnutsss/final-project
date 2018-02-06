@@ -1039,9 +1039,7 @@ footer i:hover {
 
 	/*position of the content*/
 
-	/* Is there any way so the div and time will automatically move when the screen goes wider/narrower 
-	so I don't need to keep adjust it for every 50px increase/decrease of screensize?
-	All I can think of is to re-structure it to all div so it won't be using ul li */
+	/* will rebuild the timeline so won't need to adjust it once every 50px*/
 
 	.timeline ul li div {
 		position: absolute;
